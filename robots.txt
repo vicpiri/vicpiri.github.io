@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /animacion-visual-en-vivo/*/img/
+Disallow: /animacion-visual-en-vivo/*/documentos/
 Disallow: /digitalizacion/*/img/
